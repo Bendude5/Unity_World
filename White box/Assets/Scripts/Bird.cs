@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Bird : MonoBehaviour
 {
-    private int MOVEMENTSPEED = 30;
+    private int MOVEMENTSPEED = 15;
     private Vector3 movement;
     public float rotatespeed = 0.3f;
 
@@ -85,11 +85,11 @@ public class Bird : MonoBehaviour
 
         if (Input.GetKey(KeyCode.C))
         {
-            MOVEMENTSPEED = 50;
+            MOVEMENTSPEED = 15;
         }
         else
         {
-            MOVEMENTSPEED = 20;
+            MOVEMENTSPEED = 10;
         }
 
 
