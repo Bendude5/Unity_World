@@ -431,9 +431,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 24390000
-    m_LastClickedID: 14628
-    m_ExpandedIDs: 000000001839000000ca9a3b
+    m_SelectedIDs: 2e390000
+    m_LastClickedID: 14638
+    m_ExpandedIDs: 000000002239000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -461,7 +461,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000018390000
+    m_ExpandedIDs: 0000000022390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -583,10 +583,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
+      scrollPos: {x: 0, y: 78}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff06370000
+      m_ExpandedIDs: d4f1ffff40f4ffff6afbffffce340000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -646,9 +646,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 382.97818, y: -85.29624, z: 74.51603}
+    m_Target: {x: -542.0115, y: -2111.001, z: -368.72775}
     speed: 2
-    m_Value: {x: 382.97818, y: -85.29624, z: 74.51603}
+    m_Value: {x: -542.0115, y: -2111.001, z: -368.72775}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -694,13 +694,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.012911409, y: 0.98478466, z: -0.15335914, w: -0.08171494}
+    m_Target: {x: 0.14130394, y: -0.8578873, z: 0.37080142, w: 0.32672128}
     speed: 2
-    m_Value: {x: -0.013041365, y: 0.98553556, z: -0.14440247, w: -0.087735854}
+    m_Value: {x: 0.14999114, y: -0.8495675, z: 0.37326962, w: 0.34118557}
   m_Size:
-    m_Target: 424.9989
+    m_Target: 3066.0437
     speed: 2
-    m_Value: 445.02502
+    m_Value: 3210.5168
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -718,7 +718,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.08665884, y: 0.898555, z: -0.37758425, w: -0.20622168}
+  m_LastSceneViewRotation: {x: 0.028997848, y: 0.9108144, z: -0.40676588, w: 0.06548678}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
