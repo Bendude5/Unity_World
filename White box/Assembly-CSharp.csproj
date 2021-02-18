@@ -66,7 +66,11 @@
     <Compile Include="Assets\EgyptMonsters\Scripts\DemoController.cs" />
     <Compile Include="Assets\EgyptMonsters\Scripts\DestroyMe.cs" />
     <Compile Include="Assets\Scripts\Bird.cs" />
+    <Compile Include="Assets\Scripts\CameraSwitch.cs" />
+    <Compile Include="Assets\Scripts\Camera_Control.cs" />
     <Compile Include="Assets\Scripts\Mouselook.cs" />
+    <Compile Include="Assets\Scripts\Movement.cs" />
+    <Compile Include="Assets\Scripts\Second_Camera_Switch.cs" />
     <None Include="Assets\EgyptMonsters\Demo\DemoAssets\Shaders\GrassAnimate.shader" />
     <None Include="Assets\EgyptMonsters\README.txt" />
     <Reference Include="UnityEngine">
